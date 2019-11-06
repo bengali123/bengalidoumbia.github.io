@@ -1,0 +1,78 @@
+ul li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(34, 33, 32);
+    width: 10%;
+    justify-content: center;
+    float: left;
+    border: rgb(3, 3, 3)70, 162, 162) 2px;
+    
+  }
+  
+  
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  li a:hover {
+    background-color:gray;
+  }
+  
+  footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 18%;
+      height: 10%;
+  color:black;
+  text-align: left;
+  
+  }
+  
+  main h1 {
+      position: relative;
+      top: 100px;
+      right: 20%;
+  }
+  
+  main a {
+      position: relative;
+      top: 100px;
+  }
+  
+  body{
+      background-image: url('/project-portfolio-bengali123/image/giphy.gif');
+      background-size: cover;
+      height: 100vh;
+  }
+  div{
+      width:65%;
+  height:15%;}
+  
+  #p {
+      margin: 10% 0% 0% 0%;
+  }
+  img{
+      width:800px ;
+      height: 430px;
+      position: relative;
+      left: 365px;
+      top: 125px;   
+  }
+ 
+#vd {
+    color: white;
+    position: relative;
+    left: 650px;
+    top: -350px;
+    font-size: 25px;
+    border: 2px solid rgb(0, 0, 0);    
+    background-color: rgb(24, 24, 24);
+}
